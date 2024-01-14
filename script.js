@@ -61,6 +61,6 @@ var button = document.getElementById("blueButton");
 // Add a click event listener
 button.addEventListener("click", function() {
     if (password.value === "peepee-poopoo-caca-doodoo") {
-        alert("Eat those fkin donuts....one...last...time. Here is your Krispy Kreme code: 123456789 (yes it actually works, but this message will self-destruct in 5 light years. But seriously, don't eat too many donuts.)");
+        alert("Eat those fkin donuts (or a drink)....one...last...time. Here is your Krispy Kreme code: https://merchant.wgiftcard.com/card/virtual/cert/krispykreme/181/247778459/VENFH2ULWX (yes it actually works, but this message will self-destruct in 5 light years. But seriously, don't eat too many donuts.)");
     }
 });
